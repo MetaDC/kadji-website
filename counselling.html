@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <!-- Google Tag Manager -->
@@ -936,9 +936,7 @@
 
       <section
         class="inspiring-one hero"
-        style="
-          background-image: url(&quot;assets/images/about/behaviour.jpg&quot;);
-        "
+        style="background-image: url('assets/images/about/behaviour.jpg')"
       >
         <div class="container">
           <div class="row gutter-y-50 justify-content-between">
@@ -1522,22 +1520,174 @@
             </div>
             <!-- /.col-xl-6 -->
             <div class="col-lg-4">
-              <div id="routing-form" style="width: 100%; height: 600px">
-                <script>
-                  window.addEventListener("load", () => {
-                    document.body.appendChild(
-                      Object.assign(document.createElement("script"), {
-                        src: "https://sales.superagi.com/routingFormWidget.js",
-                        onload: () =>
-                          window.initScheduler(
-                            "https://meetings.superagi.com/routing-forms/2d27b1d4-4ae6-4aa7-a2d8-817860b76e30",
-                            "routing-form",
-                          ),
-                      }),
-                    );
-                  });
-                </script>
+              <!-- --------- engagebay form source code----------- -->
+
+              <link
+                href="https://d2p078bqz5urf7.cloudfront.net/jsapi/css/engagebay-source-forms-min.v01.css"
+                rel="stylesheet"
+              /><style>
+                .engage-bay-source-form.engagebay-forms[data-id="6524736035094528"]
+                  * {
+                  font-family: Arial, Helvetica, sans-serif;
+                }</style
+              ><style>
+                body {
+                  color: #333;
+                }
+              </style>
+              <div
+                class="engage-bay-source-form engagebay-forms"
+                data-id="6524736035094528"
+              >
+                <form
+                  class="form form-style-form1 default"
+                  onsubmit="return window.submit_form_inquiry(event,this)"
+                  style="
+                    border-radius: 20px;
+                    border: 0px solid #ddd;
+                    background-color: #124c5a;
+                    max-width: 100%;
+                    background-position: 0% 0%;
+                    box-shadow: none;
+                  "
+                  data-id="6524736035094528"
+                >
+                  <fieldset>
+                    <!-- Form Name -->
+                    <div class="form-group" style="">
+                      <label class="control-label" for="name"
+                        ><p><strong>First Name</strong></p>
+                        <span class="text-danger">*</span></label
+                      >
+                      <div class="controls">
+                        <input
+                          data-ebay_field="name"
+                          data-ebay_add_as=""
+                          id="name"
+                          title=""
+                          name="name"
+                          type="text"
+                          style="background-color: #fff"
+                          placeholder="Enter your first name"
+                          class="form-control"
+                          required="true"
+                        />
+                      </div>
+                    </div>
+                    <div class="form-group" style="">
+                      <label class="control-label" for="phone_number"
+                        ><p><strong>Phone Number&nbsp;</strong></p>
+                        <span class="text-danger">*</span></label
+                      >
+                      <div class="controls">
+                        <input
+                          data-ebay_field="phone"
+                          data-ebay_add_as=""
+                          id="phone_number"
+                          title="Please enter valid phone number."
+                          name="phone_number"
+                          type="phone"
+                          style="background-color: #fff"
+                          placeholder="Enter your Mobile Number"
+                          class="form-control"
+                          required="true"
+                        />
+                      </div>
+                    </div>
+                    <div class="form-group" style="">
+                      <label class="control-label" for="email"
+                        ><p><strong>Email</strong></p>
+                        <span class="text-danger">*</span></label
+                      >
+                      <div class="controls">
+                        <input
+                          data-ebay_field="email"
+                          data-ebay_add_as=""
+                          id="email"
+                          title=""
+                          name="email"
+                          type="email"
+                          style="background-color: #fff"
+                          placeholder="Enter your email"
+                          class="form-control"
+                          required="true"
+                        />
+                      </div>
+                    </div>
+                    <div class="form-group" style="">
+                      <label class="control-label" for="Message"
+                        ><p><strong>Tell us more about your need</strong></p>
+                        <span class="text-danger">*</span></label
+                      >
+                      <div class="controls">
+                        <textarea
+                          rows="2"
+                          data-ebay_field="Message"
+                          data-ebay_add_as=""
+                          id="Message"
+                          name="Message"
+                          type="textarea"
+                          style="background-color: #fff"
+                          placeholder="Additional information."
+                          class="form-control"
+                          required="true"
+                        ></textarea>
+                      </div>
+                    </div>
+                    <div class="form-group">
+                      <div class="controls">
+                        <input
+                          data-ebay_field=""
+                          data-ebay_add_as="ADDASNOTE"
+                          id="eb_temp_field_hidden_field_1"
+                          name="eb_temp_field_hidden_field_1"
+                          type="hidden"
+                          value="service"
+                          style="background-color: #fff"
+                          class="form-control"
+                        />
+                      </div>
+                    </div>
+                    <div class="form-group">
+                      <div>
+                        <button
+                          data-ebay_field="Message"
+                          data-ebay_add_as="ADDASNOTE"
+                          type="submit"
+                          class="submit-btn"
+                          style="color: #fff; background-color: #e8e261ff"
+                        >
+                          <p>
+                            <span
+                              style="color: rgb(51, 51, 51)"
+                              data-mce-style="color: #333333;"
+                              >Submit</span
+                            >
+                          </p>
+                        </button>
+                        <br /><span id="error-msg"></span>
+                      </div>
+                    </div>
+                  </fieldset>
+                  <div class="error-success-container"></div>
+                </form>
+                <div class="branding-footer outer-branding force-hide">
+                  <img
+                    src="https://d2p078bqz5urf7.cloudfront.net/cloud/assets/email-img/ebpowered.png"
+                    height="15px"
+                    width="15px"
+                  />
+                  by
+                  <a
+                    href="https://www.engagebay.com/?utm_source=eb-forms"
+                    rel="nofollow"
+                    target="_blank"
+                    >EngageBay</a
+                  >
+                </div>
               </div>
+
+              <!-- form end -->
             </div>
           </div>
           <!-- /.col-xl-6 -->
@@ -1548,7 +1698,7 @@
       <section
         class="help-people"
         style="
-          background-image: url(&quot;assets/images/backgrounds/help-people-bg-1.png&quot;);
+          background-image: url('assets/images/backgrounds/help-people-bg-1.png');
         "
       >
         <div class="about-one__bg z-0">
@@ -1557,7 +1707,7 @@
           <div
             class="about-one__bg__inner"
             style="
-              background-image: url(&quot;assets/images/shapes/about-shape-1-1.png&quot;);
+              background-image: url('assets/images/shapes/about-shape-1-1.png');
             "
           ></div>
           <!-- /.about-one__left__bg__inner -->
@@ -2276,7 +2426,7 @@
                 <div
                   class="testimonials-card__bg"
                   style="
-                    background-image: url(&quot;assets/images/backgrounds/testimonial-bg-2.png&quot;);
+                    background-image: url('assets/images/backgrounds/testimonial-bg-2.png');
                   "
                 ></div>
                 <!-- /.testimonials-card__bg -->
@@ -2288,14 +2438,7 @@
                     src="https://www.youtube.com/embed/broZnRNMCXM?si=KPmE_rHwcQ7DebBr"
                     title="YouTube video player"
                     frameborder="0"
-                    allow="
-                      accelerometer;
-                      clipboard-write;
-                      encrypted-media;
-                      gyroscope;
-                      picture-in-picture;
-                      web-share;
-                    "
+                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     allowfullscreen
                   ></iframe>
                   <div class="testimonials-card__info">
@@ -2323,7 +2466,7 @@
                 <div
                   class="testimonials-card__bg"
                   style="
-                    background-image: url(&quot;assets/images/backgrounds/testimonial-bg-2.png&quot;);
+                    background-image: url('assets/images/backgrounds/testimonial-bg-2.png');
                   "
                 ></div>
                 <!-- /.testimonials-card__bg -->
@@ -2335,13 +2478,7 @@
                     src="https://www.youtube.com/embed/kEVNISg19Co?si=7x6dz8PW_CnADb9L"
                     title="YouTube video player"
                     frameborder="0"
-                    allow="
-                      accelerometer;
-                      clipboard-write;
-                      encrypted-media;
-                      gyroscope;
-                      picture-in-picture;
-                    "
+                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
                     allowfullscreen
                   ></iframe>
                   <div class="testimonials-card__info">
@@ -2367,7 +2504,7 @@
                 <div
                   class="testimonials-card__bg"
                   style="
-                    background-image: url(&quot;assets/images/backgrounds/testimonial-bg-2.png&quot;);
+                    background-image: url('assets/images/backgrounds/testimonial-bg-2.png');
                   "
                 ></div>
                 <!-- /.testimonials-card__bg -->
@@ -2379,13 +2516,7 @@
                     src="https://www.youtube.com/embed/f4GCIfVQQPM?si=1pKrEj7UYoYhaLuQ"
                     title="YouTube video player"
                     frameborder="0"
-                    allow="
-                      accelerometer;
-                      clipboard-write;
-                      encrypted-media;
-                      gyroscope;
-                      picture-in-picture;
-                    "
+                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
                     allowfullscreen
                   ></iframe>
                   <div class="testimonials-card__info">
@@ -2920,14 +3051,14 @@
         document,
         "script",
         "//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js?v" +
-          new Date().getHours(),
+          new Date().getHours()
       );
     </script>
     <script>
       document.addEventListener("DOMContentLoaded", function () {
         function addValue() {
           var location = document.getElementById(
-            "eb_temp_field_hidden_field_1",
+            "eb_temp_field_hidden_field_1"
           );
           location.value = "counselling";
           // console.log("Matin");
