@@ -1,213 +1,507 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
+<url>
     <loc>https://kadji.co.in/about.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/alzheimer-care.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/assisted-medical.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://kadji.co.in/blog-details.html</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kadji.co.in/blog.html</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/cancer-care.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/cardiac-care.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/coma-care.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/coming-soon.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/counselling.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/dysphagia.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/erectile-dysfunction-rehab.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/exercise.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/fms.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/general-physiotherapy.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/general-surgery.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/hydrocolon.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/intellectual-care.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/locomotor.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/massage.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/mental-health.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/occupational.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/orthopedic-surgery.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/parkinson-care.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/privacypolicy.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/refundpolicy.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/service-details.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/shippingpolicy.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/special-physiotherapy.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/speech.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/strokecare-rehab.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/thankyou.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/tnc.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://kadji.co.in/vtour.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/complete-guide-to-stroke-neuro-rehabilitation-in-vadodara/</loc>
+    <lastmod>2026-01-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/advanced-neuro-physiotherapy-techniques-for-stroke-patients/</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/how-robotic-therapy-accelerates-neuro-recovery-after-stroke/</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/neuro-rehabilitation-for-paralysis-patients-in-gujarat/</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/latest-robotic-rehabilitation-technologies-used-in-vadodara/</loc>
+    <lastmod>2026-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/stroke-rehabilitation-timeline-what-to-expect-during-recovery/</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/robotic-neuro-rehab-vs-conventional-therapy-whats-better/</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/advanced-brain-injury-rehabilitation-services-in-gujarat/</loc>
+    <lastmod>2026-01-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/neuro-physiotherapy-for-stroke-recovery-in-vadodara/</loc>
+    <lastmod>2026-01-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/robotic-gait-training-for-stroke-patients-in-gujarat/</loc>
+    <lastmod>2025-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/advanced-stroke-rehabilitation-techniques-used-in-vadodara/</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/how-early-neuro-rehab-improves-stroke-recovery-outcomes/</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/choosing-the-right-neuro-rehabilitation-center-in-gujarat/</loc>
+    <lastmod>2025-12-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/robotic-rehabilitation-therapy-in-vadodara-what-patients-should-know/</loc>
+    <lastmod>2025-12-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/benefits-of-advanced-neuro-rehabilitation-after-stroke/</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/stroke-recovery-in-vadodara-advanced-neuro-rehab-options-explained/</loc>
+    <lastmod>2025-12-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/role-of-robotic-therapy-in-neuro-rehabilitation-in-gujarat/</loc>
+    <lastmod>2025-12-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/best-stroke-rehabilitation-centers-in-vadodara-a-complete-guide/</loc>
+    <lastmod>2025-12-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/how-robotic-rehabilitation-is-transforming-stroke-recovery-in-gujarat/</loc>
+    <lastmod>2025-12-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/advanced-neuro-rehabilitation-in-vadodara-treatments-benefits/</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/residential-care-in-gujarat-the-future-of-senior-living-solutions/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/senior-housing-projects-in-gujarat-comfort-care-modern-living/</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/senior-citizen-home-in-gujarat-safe-caring-comfortable-living/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/senior-citizen-clubs-in-gujarat-building-social-connections-after-60/</loc>
+    <lastmod>2025-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/why-retirement-homes-in-gujarat-are-ideal-for-modern-seniors/</loc>
+    <lastmod>2025-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/finding-the-best-old-age-home-in-gujarat-for-your-loved-ones/</loc>
+    <lastmod>2025-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/oldage-home-gujarat-personalized-care-for-a-better-quality-of-life/</loc>
+    <lastmod>2025-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/inside-gujarats-top-paid-old-age-homes-and-their-unique-offerings/</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/the-changing-face-of-old-age-care-services-across-gujarat/</loc>
+    <lastmod>2025-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/how-assisted-living-in-gujarat-is-redefining-senior-independence/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/comprehensive-guide-to-old-age-care-in-gujarat-services/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/tradition-meets-modern-care-in-senior-home-in-gujarat/</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/exploring-senior-citizen-housing-projects-in-gujarat/</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/senior-citizen-home-in-gujarat-safety-comfort-community/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/benefits-of-joining-a-senior-citizen-club-gujarat/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/retirement-homes-in-gujarat-a-modern-lifestyle-for-seniors/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/comparing-affordable-vs-premium-old-age-home-gujarat/</loc>
+    <lastmod>2025-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/best-old-age-home-in-gujarat-facilities-care-reviews/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/why-paid-old-age-homes-in-gujarat-are-gaining-popularity/</loc>
+    <lastmod>2025-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/top-assisted-living-gujarat-options-for-a-comfortable-retirement/</loc>
+    <lastmod>2025-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/easing-parkinsons-journey-finding-the-best-parkinsons-disease-rehabilitation-centers/</loc>
+    <lastmod>2024-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/transforming-lives-personalized-care-for-alzheimers-and-dementia-patients/</loc>
+    <lastmod>2024-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/breaking-barriers-tailored-rehabilitation-for-neurological-disorders/</loc>
+    <lastmod>2024-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/enhancing-quality-of-life-occupational-therapy-for-total-hip-replacement-patient/</loc>
+    <lastmod>2024-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/the-road-to-recovery-traumatic-brain-injury-rehabilitation-centers/</loc>
+    <lastmod>2024-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/holistic-approach-multiple-sclerosis-rehabilitation-senior-care-with-physical-therapy/</loc>
+    <lastmod>2024-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/the-importance-of-rehabilitation-for-seniors-enhancing-quality-of-life/</loc>
+    <lastmod>2024-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/benefits-of-post-surgery-rehabilitation-a-smooth-transition-to-recovery/</loc>
+    <lastmod>2024-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://kadji.co.in/blogs/navigating-orthopedic-recovery-effective-rehabilitation-for-knee-and-hip-replacement-patient/</loc>
+    <lastmod>2024-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kadji.co.in/blog.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>
