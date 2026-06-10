@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400..700&family=Quicksand:wght@500..700&family=Schoolbell&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+     <!-- Google tag (gtag.js) event -->
+<script>
+  gtag('event', 'conversion_event_submit_lead_form', {
+    // <event_parameters>
+  });
+</script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Open PDF and Redirect to WhatsApp</title>
+    <script>
+    
+      function pdfOpen() {
+      
+        // window.open("assets/images/pricing.pdf"); 
+        window.location.href="assets/images/pricing.pdf"; 
+
+        // Delay the WhatsApp redirection by 2 seconds
+        // setTimeout(function () {
+        //   window.location.href = "https://wa.me/11234567890"; // Replace with the actual WhatsApp link
+        // }, 2000); // Delay of 2 seconds before redirecting to WhatsApp
+      }
+    </script>
+      <style>
+      .preloader {
+        position: fixed;
+        background-color: #134c5a;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 99999;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .preloader__image {
+        background-image: url(assets/images/kadji-new-logo-white.webp);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 160px auto;
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+    <link rel="canonical" href="https://kadji.co.in/pdf.html" />
+</head>
+
+  <body onload="pdfOpen()">
+    <div class="preloader">
+      <div
+        class="preloader__image"
+        style="background-image: url(assets/images/kadji-new-logo-white.webp)"
+      ></div>
+    </div>
+    <!-- /.preloader -->
+    <div
+      class="container"
+      style="height: 100vh; display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center;"
+    >
+      <h1 style="text-align: center;">Redirecting to pdf...</h1>
+      <p style="text-align: center;">Please wait while we open the PDF and redirect you</p>
+    </div>
+      <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var preloader = document.querySelector(".preloader");
+        if (preloader) {
+          preloader.style.transition = "opacity 0.25s ease";
+          preloader.style.opacity = "0";
+          setTimeout(function () {
+            preloader.style.display = "none";
+          }, 250);
+        }
+      });
+    </script>
+</body>
+</html>
