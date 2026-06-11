@@ -178,6 +178,43 @@ function restoreNavLinks() {
   });
 }
 
+// Helper to clean inline styles exported from external editors (like Google Docs)
+function cleanHtmlStyles(html) {
+  if (!html) return '';
+  return html.replace(/style\s*=\s*(["'])(.*?)\1/gi, (match, quote, styleContent) => {
+    const properties = styleContent.split(';');
+    const cleanedProperties = [];
+    for (let prop of properties) {
+      prop = prop.trim();
+      if (!prop) continue;
+      const colonIndex = prop.indexOf(':');
+      if (colonIndex === -1) continue;
+      const key = prop.substring(0, colonIndex).trim().toLowerCase();
+      const value = prop.substring(colonIndex + 1).trim().toLowerCase();
+      
+      // Filter out properties that override theme typography, colors, or structure
+      if (key === 'font-family') continue;
+      if (key === 'font-size') continue;
+      if (key === 'color' && (value === '#000000' || value === 'black' || value === '#111111' || value === '#222222' || value === '#333333')) continue;
+      if (key === 'background-color' && value === 'transparent') continue;
+      if (key === 'white-space') continue;
+      if (key === 'vertical-align') continue;
+      if (key === 'text-decoration' && value === 'none') continue;
+      if (key === 'font-variant') continue;
+      if (key === 'font-style' && value === 'normal') continue;
+      if (key === 'font-weight' && (value === '400' || value === 'normal')) continue;
+      if (key === 'line-height') continue;
+      if (key === 'margin-top' || key === 'margin-bottom') continue;
+      
+      cleanedProperties.push(prop);
+    }
+    if (cleanedProperties.length === 0) {
+      return '';
+    }
+    return `style="${cleanedProperties.join('; ')}"`;
+  });
+}
+
 async function main() {
   console.log("Starting static blog migration...");
   
@@ -216,6 +253,10 @@ async function main() {
   for (const doc of documents) {
     const rawFields = doc.document.fields;
     const blogData = mapFirestoreFields(rawFields);
+    
+    if (blogData.htmlString) {
+      blogData.htmlString = cleanHtmlStyles(blogData.htmlString);
+    }
     
     blogData.id = blogData.id || doc.document.name.split('/').pop();
     blogData.createdAt = blogData.createdAt || new Date().toISOString();
