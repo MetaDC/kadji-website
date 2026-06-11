@@ -4430,6 +4430,53 @@
         <section
           class="subscribe"
           id="contact"
+          style="background-color: #edf1f4; display: none"
+        >
+          <div class="container">
+            <div class="row justify-content-center">
+              <div
+                class="col-lg-12 fadeInUp"
+                data-wow-delay="00ms"
+                data-wow-duration="1500ms"
+              >
+                <div class="subscribe__content justify-content-center">
+                  <!-- <span class="subscribe__title-image icon-email"></span> -->
+                  <h2 class="subscribe__title pb-4 text-center">
+                    Need More Clarification?
+                  </h2>
+                </div>
+                <!-- /.subscribe__content -->
+                <p class="text-center mb-5">
+                  Book A Free Counseling Session & Get All Your Doubts Clear.
+                </p>
+              </div>
+              <!-- /.col-lg-5 -->
+              <!-- <div class="engage-hub-form-embed" id="eh_form_6524736035094528" data-id="6524736035094528"> 
+                            
+            </div> -->
+              <div class="zoho-form-container">
+                <div
+                  id="zf_div_kEJKNS5X6birIdYH9dC_7TN-4XnNA8GogdjeHYJEBVk"
+                ></div>
+              </div>
+
+              <!-- /.col-lg-7 -->
+            </div>
+            <!-- /.row -->
+          </div>
+          <!-- /.container -->
+          <div class="subscribe__shape">
+            <div class="subscribe__shape__one"></div>
+            <!-- /.subscribe__shape__one -->
+            <div class="subscribe__shape__two"></div>
+            <!-- /.subscribe__shape__one -->
+          </div>
+          <!-- /.subscribe__shape -->
+        </section>
+
+        <section
+          class="subscribe"
+          id="contact"
           style="background-color: #edf1f4"
         >
           <div class="container">
@@ -5935,6 +5982,76 @@
         s.async = true;
         document.body.appendChild(s);
       });
+    </script>
+
+    <style>
+      .zoho-form-wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+      }
+
+      #zf_div_kEJKNS5X6birIdYH9dC_7TN-4XnNA8GogdjeHYJEBVk {
+        width: 100%;
+        max-width: 800px;
+        margin: 0 auto;
+      }
+    </style>
+
+    <script type="text/javascript">
+      (function () {
+        try {
+          var f = document.createElement("iframe");
+
+          f.src =
+            "https://forms.zohopublic.in/kadjicareandrehabspvtltd1/form/WebsiteForm/formperma/kEJKNS5X6birIdYH9dC_7TN-4XnNA8GogdjeHYJEBVk?zf_rszfm=1";
+
+          f.style.border = "none";
+          f.style.width = "100%";
+          f.style.maxWidth = "800px";
+          f.style.height = "650px";
+          f.style.display = "block";
+          f.style.margin = "0 auto";
+          f.setAttribute("aria-label", "Website Form");
+
+          document
+            .getElementById(
+              "zf_div_kEJKNS5X6birIdYH9dC_7TN-4XnNA8GogdjeHYJEBVk",
+            )
+            .appendChild(f);
+
+          window.addEventListener(
+            "message",
+            function (event) {
+              var evntData = event.data;
+
+              if (typeof evntData === "string") {
+                var zf_ifrm_data = evntData.split("|");
+
+                if (zf_ifrm_data.length >= 2) {
+                  var zf_perma = zf_ifrm_data[0];
+                  var zf_ifrm_ht_nw = parseInt(zf_ifrm_data[1], 10) + 15 + "px";
+
+                  var iframe = document
+                    .getElementById(
+                      "zf_div_kEJKNS5X6birIdYH9dC_7TN-4XnNA8GogdjeHYJEBVk",
+                    )
+                    .getElementsByTagName("iframe")[0];
+
+                  if (
+                    iframe &&
+                    iframe.src.indexOf("formperma") > 0 &&
+                    iframe.src.indexOf(zf_perma) > 0
+                  ) {
+                    iframe.style.height = zf_ifrm_ht_nw;
+                  }
+                }
+              }
+            },
+            false,
+          );
+        } catch (e) {}
+      })();
     </script>
   </body>
 </html>
